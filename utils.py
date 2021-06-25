@@ -3,3 +3,6 @@ def func_buongiorno():
 
 def func_buongiorno_2():
     print("buongiorno")
+
+def func_buongiorno_3():
+    print("buongiorno")
